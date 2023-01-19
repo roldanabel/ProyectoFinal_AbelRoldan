@@ -1,0 +1,17 @@
+* {
+  margin: 0%;
+  padding: 0%; }
+
+h3 {
+  color: gray; }
+
+p {
+  font-family: 'Roboto', sans-serif; }
+
+.footer {
+  grid-area: footer;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #F8F9FA; }
